@@ -24,4 +24,4 @@
 
 - [ ] *Ok, that's all the articles and tools that I can convey and happy coding.*
 
-- [ ] **Tags to:** [#hacking](#) [#anime](#) [#pentesting](#)
+- [ ] **Tags to:** *[#hacking](#) [#anime](#) [#pentesting](#) [#learn](#) [#followmyproof](#) [#hengker](#) [#game](#)*
